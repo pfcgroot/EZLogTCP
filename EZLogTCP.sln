@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EZLogTCP_Client", "FileTransferClient\EZLogTCP_Client.vcxproj", "{BC6F57BB-BC5D-4EDB-9DB9-0930C3A4C401}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EZLogTCP", "EZLogTCP\EZLogTCP.vcxproj", "{39630FE5-139B-42E0-8D56-5BB4BB95A4DA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EZLogTCP_setup", "EZLogTCP_setup\EZLogTCP_setup.vdproj", "{575CFF2B-CFCE-48FE-8A27-85F7A60E74FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6F57BB-BC5D-4EDB-9DB9-0930C3A4C401}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC6F57BB-BC5D-4EDB-9DB9-0930C3A4C401}.Debug|Win32.Build.0 = Debug|Win32
+		{BC6F57BB-BC5D-4EDB-9DB9-0930C3A4C401}.Release|Win32.ActiveCfg = Release|Win32
+		{BC6F57BB-BC5D-4EDB-9DB9-0930C3A4C401}.Release|Win32.Build.0 = Release|Win32
+		{39630FE5-139B-42E0-8D56-5BB4BB95A4DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39630FE5-139B-42E0-8D56-5BB4BB95A4DA}.Debug|Win32.Build.0 = Debug|Win32
+		{39630FE5-139B-42E0-8D56-5BB4BB95A4DA}.Release|Win32.ActiveCfg = Release|Win32
+		{39630FE5-139B-42E0-8D56-5BB4BB95A4DA}.Release|Win32.Build.0 = Release|Win32
+		{575CFF2B-CFCE-48FE-8A27-85F7A60E74FD}.Debug|Win32.ActiveCfg = Debug
+		{575CFF2B-CFCE-48FE-8A27-85F7A60E74FD}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
